@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_black_18"
+            android:title="@string/homelabel_nav"
+            android:checked="true" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/baseline_search_black_18"
+            android:title="@string/searchlabel_nav" />
+        <item
+            android:id="@+id/nav_create"
+            android:icon="@drawable/baseline_add_black_18"
+            android:title="@string/createlistinglabel_nav" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/baseline_dashboard_black_18"
+            android:title="@string/managelistings_nav" />
+    </group>
+
+    <item android:title="@string/accountlabel_nav">
+        <menu>
+            <item
+                android:id="@+id/nav_account"
+                android:icon="@drawable/baseline_account_circle_black_18"
+                android:title="@string/myaccount_nav" />
+            <item
+                android:id="@+id/nav_sign_out"
+                android:icon="@drawable/baseline_exit_to_app_black_18"
+                android:title="@string/signout_nav" />
+        </menu>
+    </item>
+
+</menu>

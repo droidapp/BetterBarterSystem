@@ -1,0 +1,10 @@
+#Thu Sep 20 11:04:22 ALMT 2018
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\Begali\\AndroidStudioProjects\\BetterBarterSystem\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.1=C\:\\Users\\Begali\\AndroidStudioProjects\\BetterBarterSystem\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.0=C\:\\Users\\Begali\\AndroidStudioProjects\\BetterBarterSystem\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
